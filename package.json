@@ -1,0 +1,12 @@
+{
+  "name": "huffman-using-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "buildHuffmanTree.js",
+  "scripts": {
+    "start": "node ./src/huffman"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
